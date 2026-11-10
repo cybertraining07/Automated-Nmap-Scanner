@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Backup files
+scanner_stage2_backup.py
+*.backup
+*.bak
+* def
+
+# Generated scan reports
+reports/*
+!reports/.gitkeep
+
+# Temporary files
+*.tmp
